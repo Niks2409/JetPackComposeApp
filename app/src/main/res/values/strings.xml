@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ProductDescApp</string>
+    <string name="app_name">ProductListApp</string>
     <string name="product_img">\"product image\"</string>
 </resources>
